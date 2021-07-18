@@ -1,0 +1,74 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+#left-right {
+    background-color: blue;
+    color: white;
+    font-family: 'Open Sans Condensed', serif;
+    font-size: 18px;
+}
+
+.profile {
+    display: inline;
+}
+
+.name {
+    font-family: 'Mate Sc', sans-serif;
+    font-size: 30px;
+}
+
+#image1 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: green;
+    border-width: 3px;
+}
+
+.campimg {
+    height: 500px;
+    width: 600px;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv{
+    width: 100%;
+}
+
+travel mainDiv hr {
+    width: 230px;
+}
+
+travel maindiv h5,
+.travel mainDriv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
